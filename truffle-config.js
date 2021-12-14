@@ -1,7 +1,7 @@
 require('babel-register');
 require('babel-polyfill');
 var HDWalletProvider = require("@truffle/hdwallet-provider")
-var mnemonic = "wolf predict tiger shock indicate aisle coconut retire release fish spin invest";
+var mnemonic = "Your Secret String Here!";
 
 module.exports = {
   networks: {
